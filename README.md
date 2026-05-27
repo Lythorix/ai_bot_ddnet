@@ -10,7 +10,7 @@ then "cd (path to folder)
 
 then npm init -y 
 
-then npm install teeworld groq-sdk  
+then npm install teeworlds groq-sdk  
 
 then you can close cmd 
 
@@ -39,7 +39,7 @@ done your now have ai bot type #help to view commands
 
 потом npm init -y 
 
-потом npm install teeworld qroq-sdk 
+потом npm install teeworlds qroq-sdk 
 
 потом можете закрыть командную строку 
 
