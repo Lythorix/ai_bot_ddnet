@@ -26,7 +26,7 @@ then open cmd and "cd (path to file)"
 
 then node ai.js 
 
-done your now have ai bot type #help to view commands 
+done your now have ai bot type !ai_help to view commands 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 инструкция (русс) 
@@ -55,4 +55,4 @@ done your now have ai bot type #help to view commands
 
 потом node ai.js 
 
-готово у вас есть ии ассистент/помощник напишите в чат #help для просмотра команд 
+готово у вас есть ии ассистент/помощник напишите в чат !ai_help для просмотра команд 
